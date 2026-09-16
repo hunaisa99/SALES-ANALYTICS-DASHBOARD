@@ -41,5 +41,4 @@ The dashboard provides a comprehensive overview of sales performance and helps i
 
 ## Project Preview
 
-!<img width="900" height="457" alt="Capture" src="https://github.com/user-attachments/assets/d2128276-3210-4215-aeee-5ba740ae4455" />
 
