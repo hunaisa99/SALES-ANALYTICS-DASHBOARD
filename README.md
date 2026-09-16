@@ -40,7 +40,8 @@ The dashboard provides a comprehensive overview of sales performance and helps i
 - Interactive Dashboard Design
 
 ## Project Preview
-<img width="953" height="459" alt="Capture  123" src="https://github.com/user-attachments/assets/a9813660-ef40-4417-bb5d-75a31b1c5796" />
+<img width="886" height="453" alt="Capture 24" src="https://github.com/user-attachments/assets/e31cc6e5-0746-4836-aae7-906301984891" />
+
 
 
 
